@@ -20,7 +20,7 @@
 </p>
 
 ### Firebase
-<a href="https://console.firebase.google.com/deploy?template=https://github.com/Jobin014/Auto-Request-Accept-Bot">
+<a href="https://hub.docker.com//deploy?template=https://github.com/Jobin014/Auto-Request-Accept-Bot">
 </a>
 
 ## Config Varies
