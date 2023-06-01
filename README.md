@@ -19,9 +19,8 @@
 <a href="https://telegram.dog/Jobin789">/></a>
 </p>
 
-### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Jobin014/Auto-Request-Accept-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+### Firebase
+<a href="https://console.firebase.google.com/deploy?template=https://github.com/Jobin014/Auto-Request-Accept-Bot">
 </a>
 
 ## Config Varies
